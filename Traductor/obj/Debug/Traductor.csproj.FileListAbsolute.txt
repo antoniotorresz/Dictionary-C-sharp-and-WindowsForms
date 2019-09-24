@@ -1,0 +1,10 @@
+C:\Users\Antonio\source\repos\Traductor\Traductor\bin\Debug\Traductor.exe.config
+C:\Users\Antonio\source\repos\Traductor\Traductor\bin\Debug\Traductor.exe
+C:\Users\Antonio\source\repos\Traductor\Traductor\bin\Debug\Traductor.pdb
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.Form1.resources
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.Properties.Resources.resources
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.exe
+C:\Users\Antonio\source\repos\Traductor\Traductor\obj\Debug\Traductor.pdb

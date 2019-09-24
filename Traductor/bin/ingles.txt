@@ -1,0 +1,8 @@
+computer
+fiend
+mouse
+cellphone
+home
+keyboard
+book
+window

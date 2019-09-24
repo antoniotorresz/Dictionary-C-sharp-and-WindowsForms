@@ -1,0 +1,8 @@
+computadora
+amigo
+raton
+celular
+casa
+teclado
+libro
+ventana
